@@ -7,10 +7,14 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: About
+      - href: projects.qmd
+        text: Projects
       - href: publications.qmd
         text: Publications
+      - href: teaching.qmd
+        text: Teaching
+      - cv.qmd
 
 format:
   html:

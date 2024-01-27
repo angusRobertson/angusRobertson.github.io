@@ -1,7 +1,15 @@
 ---
-title: "Website"
+title: "NMR.sh"
 ---
 
-This is a Quarto website.
+::: {.callout-warning title="Notice"}
+Website currently under construction.
+:::
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+#  Useful links 
+
+- [SpinDynamics](https://spindynamics.org)
+- [Hans Reich's Organic Chemistry page](https://organicchemistrydata.org/hansreich/resources/nmr/?page=nmr-content%2F.html)
+
+
+This website was made with Quarto websites visit <https://quarto.org/docs/websites> for more info.

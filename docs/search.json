@@ -1,7 +1,7 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
+    "objectID": "cv.html",
+    "href": "cv.html",
     "title": "CV",
     "section": "",
     "text": "Angus is a postdoctoral researcher in the Division of Biophysical Chemistry at the Center for Molecular Protein Sciences (CMPS), Lund University, Sweden.\n\nCurrent Position(s)\n\n2022-present - Postdoctoral researcher, Akke group\n\nBiophysical Chemistry, Center for Molecular Protein Science, Lund University, Sweden\n\n\n\n\nPrevious Position(s)\n\n2019-2022 - Postdoctoral researcher, Bax group\n\nLaboratory of Chemical Physics, National Institutes of Diabetes and Digestive and Kidney Disease (NIDDK), National Institutes of Health (NIH), U.S.A.\n\n\n\n\nEducation\n\n2014-2018 - PhD in Biomolecular NMR, Waltho group\n\nDepartment of Molecular Biology and Biotechnology (School of Biosciences), Sheffield, U.K.\nProf. Jon Waltho\n\n2011-2014 - BSc in Biochemistry (First Class Honors)\n\nDepartment of Molecular Biology and Biotechnology (School of Biosciences), Sheffield, U.K.\n\n\n\n\nAwards\n\n2023-2025 - Marie Skłodowska-Curie Actions Postdoctoral Fellowship (MSCA-PF)\n2024-2028 - Swedish Research Council (VR) Starting Grant"
@@ -9,9 +9,30 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Website",
+    "title": "NMR.sh",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Notice\n\n\n\nWebsite currently under construction.\n\n\n\nUseful links\n\nSpinDynamics\nHans Reich’s Organic Chemistry page\n\nThis website was made with Quarto websites visit https://quarto.org/docs/websites for more info."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "KFKN01 / KEMM57"
+  },
+  {
+    "objectID": "teaching.html#undergraduate-level",
+    "href": "teaching.html#undergraduate-level",
+    "title": "Teaching",
+    "section": "",
+    "text": "KFKN01 / KEMM57"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Pressure-Jump NMR of aggregating systems\n\n\nStructural characterization of the Main Protease of SARS-CoV-2\n\n\nEnergetic characterization of phosphoryl transfer"
   },
   {
     "objectID": "publications.html",
