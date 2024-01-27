@@ -6,12 +6,16 @@ title: "Teaching"
 
 ## Undergraduate Level
 
-- KFKN01 / KEMM57 
+* [KFKN01/KEMM57](https://www.kemi.lu.se/en/education/courses/advanced-level) - Magnetic Resonance: Spectroscopy and Imaging
 
 ## Graduate Level
 
+* [KFK001F](https://fukurser.lth.se/fud/details/?code=KFK001F) - Advanced NMR Spectroscopy
+* [KFK005F](https://fukurser.lth.se/fud/details/?code=KFK005F) - NMR Relaxation: Theory and Applications
 
 # SwedNMR 
 
-
+* [TBD] - SwedNMR: Biomacromolecular Dynamics by $^{15}N$ Relaxation
+* [TBD] - SwedNMR: Biomacromolecular Dynamics by $^{2}H$ and $^{1}H-^{13}C$ methyl Relaxation
+* [TBD] - SwedNMR: Biomacromolecular exchange processes investigated by $^{15}N$ and $^{13}C$ chemical exchange 
 

@@ -9,7 +9,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "NMR.sh",
+    "title": "Angus’s Notes on NMR",
     "section": "",
     "text": "Notice\n\n\n\nWebsite currently under construction.\n\n\n\nUseful links\n\nSpinDynamics\nHans Reich’s Organic Chemistry page\n\nThis website was made with Quarto websites visit https://quarto.org/docs/websites for more info."
   },
@@ -18,14 +18,21 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "KFKN01 / KEMM57"
+    "text": "KFKN01/KEMM57 - Magnetic Resonance: Spectroscopy and Imaging\n\n\n\n\n\nKFK001F - Advanced NMR Spectroscopy\nKFK005F - NMR Relaxation: Theory and Applications"
   },
   {
     "objectID": "teaching.html#undergraduate-level",
     "href": "teaching.html#undergraduate-level",
     "title": "Teaching",
     "section": "",
-    "text": "KFKN01 / KEMM57"
+    "text": "KFKN01/KEMM57 - Magnetic Resonance: Spectroscopy and Imaging"
+  },
+  {
+    "objectID": "teaching.html#graduate-level",
+    "href": "teaching.html#graduate-level",
+    "title": "Teaching",
+    "section": "",
+    "text": "KFK001F - Advanced NMR Spectroscopy\nKFK005F - NMR Relaxation: Theory and Applications"
   },
   {
     "objectID": "projects.html",

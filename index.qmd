@@ -1,5 +1,5 @@
 ---
-title: "NMR.sh"
+title: "Angus's Notes on NMR"
 ---
 
 ::: {.callout-warning title="Notice"}
